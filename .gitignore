@@ -2,3 +2,5 @@ __pycache__/*
 *.blend1
 *.pyc
 .vscode/*
+dataset_1/*
+!dataset_1/.gitkeep
